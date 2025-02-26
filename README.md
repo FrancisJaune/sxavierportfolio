@@ -2,3 +2,5 @@
 
 
 [Project 1](Project1 (3).html)
+
+[Project 2](Project_2.html)
